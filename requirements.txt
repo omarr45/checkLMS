@@ -5,7 +5,7 @@
 	• sys		-> terminates the program after it finishes
 	• colorama 	-> coloring the console text
 	• selenium 	-> web scraping (logging in and getting info)
-	• win10toast-> sending custom notifications
+	• win10toast    -> sending custom notifications
 
 3. Download chromedriver.exe (or get it from the repo) and make sure it's in the same directory as the checkLMS script
 
