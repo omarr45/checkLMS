@@ -2,7 +2,7 @@
 ### A python script that checks if new material was uploaded on LMS
 The script mainly depends on the progress bar. it check's if it's below 100% then there is new stuff that you didn't check. Otherwise you're OK and there is nothing new
 
-Please check requirements.txt to be able to run the script smoothly
+Please check [requirements file](requirements.txt) to be able to run the script smoothly
 Don't hesitte to contact me if you had any problems running the application
 
 ![Screenshot](https://user-images.githubusercontent.com/58887202/106594935-7be58200-655b-11eb-8018-a968bb2a7a01.png)
