@@ -1,0 +1,16 @@
+1. Install Python if not already installed
+
+2. Make sure you have those packages installed:
+	• time		-> responsible for sleep() function
+	• sys		-> terminates the program after it finishes
+	• colorama 	-> coloring the console text
+	• selenium 	-> web scraping (logging in and getting info)
+	• win10toast-> sending custom notifications
+
+3. Download chromedriver.exe (or get it from the repo) and make sure it's in the same directory as the checkLMS script
+
+4. Download the web_driver_conf.py script and make sure it's in the same directory as the checkLMS script
+
+5. Download uni.ico and make sure it's in the same directory as the checkLMS script
+
+6. Change the username & password in the script to work for you
